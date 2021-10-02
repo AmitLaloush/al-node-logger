@@ -1,0 +1,22 @@
+{
+  "name": "al-node-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmitLaloush/al-node-logger.git"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "Amit Laloush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmitLaloush/al-node-logger/issues"
+  },
+  "homepage": "https://github.com/AmitLaloush/al-node-logger#readme"
+}
